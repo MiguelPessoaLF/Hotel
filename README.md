@@ -1,2 +1,1 @@
-# Hotel
-O Hotel funciona como um adiministrador funcional das demandas de um hotel, contempla o cadastro de funcionarios, quartos, e clientes, bem como o inicio de novas estadias, o controle delas, e principalmente, o controle do lucro mensal do Hotel. 
+O Hotel funciona como um adiministrador funcional das demandas de um hotel, contempla o cadastro de funcionarios, quartos, e clientes, bem como o inicio de novas estadias, o controle delas, e principalmente, o controle do lucro mensal do Hotel. O programa foi realizado realizado em um trabalho de LIP, e se tronou um projeto de dias para lidar com todos os possiveis erros, evitando o mal uso ate mesmo daqueles leigos na programação. Para utilizar basta baixar o zip, descompacta-lo no local desejado, e executar no cmd.
