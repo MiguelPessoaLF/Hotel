@@ -1,0 +1,4 @@
+nome do cliente: raissa de freitas
+codigo do cliente: 1
+endereco do cliente: arra 122
+telefone do cliente: (31) 98116-3147

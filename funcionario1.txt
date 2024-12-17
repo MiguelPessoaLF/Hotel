@@ -1,0 +1,5 @@
+nome do funcionario: rafa
+codigo do funcionario: 1
+telefone do funcionario: 3131
+cargo do funcionario: terapeuta
+salario do funcionario: 10$

@@ -1,0 +1,5 @@
+nome do funcionario: Rafael Santana
+codigo do funcionario: 3
+telefone do funcionario: (31)91231-9802
+cargo do funcionario: gerente
+salario do funcionario: 10000$

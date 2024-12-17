@@ -1,0 +1,5 @@
+nome do funcionario: Gabriel Anderson
+codigo do funcionario: 4
+telefone do funcionario: (31)98790-2352
+cargo do funcionario: faxineiro
+salario do funcionario: 0.003$

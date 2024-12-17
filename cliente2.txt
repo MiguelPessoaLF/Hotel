@@ -1,0 +1,4 @@
+nome do cliente: Raphael Grossi
+codigo do cliente: 2
+endereco do cliente: bidongos, 77
+telefone do cliente: (31)97838-0123

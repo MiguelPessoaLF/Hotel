@@ -1,0 +1,14 @@
+numero do quarto: 2
+quarto para: 
+2
+valor da diaria: 
+100
+entrada: 1/2 | saida dia : 3/2
+400
+Cliente: 
+1
+Funcionario: 
+1
+ocupado
+mes de marco de lucros: 
+2

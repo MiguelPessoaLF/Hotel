@@ -1,0 +1,5 @@
+nome do funcionario: Felipe Barros
+codigo do funcionario: 2
+telefone do funcionario: (31)9786-0937
+cargo do funcionario: golpista
+salario do funcionario: 1e+07$

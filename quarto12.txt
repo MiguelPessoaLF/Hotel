@@ -1,0 +1,5 @@
+numero do quarto: 12
+quarto para: 
+3
+valor da diaria: 
+120
