@@ -1,5 +1,0 @@
-numero do quarto: 9
-quarto para: 2
-5
-valor da diaria: 
-200
