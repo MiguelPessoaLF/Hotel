@@ -1,0 +1,4 @@
+nome do cliente: Arthur Tristão
+codigo do cliente: 4
+endereco do cliente: puc minas coreu
+telefone do cliente: 31981135643

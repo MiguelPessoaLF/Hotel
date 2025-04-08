@@ -1,0 +1,4 @@
+nome do cliente: miguel
+codigo do cliente: 18
+endereco do cliente: as
+telefone do cliente: as

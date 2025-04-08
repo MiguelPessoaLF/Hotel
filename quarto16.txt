@@ -3,3 +3,12 @@ quarto para:
 4
 valor da diaria: 
 135
+entrada: 4/2 | saida dia : 12/2
+1600
+Cliente: 
+1
+Funcionario: 
+1
+ocupado
+mes de marco de lucros: 
+2

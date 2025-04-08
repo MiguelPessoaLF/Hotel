@@ -99,17 +99,7 @@ void quarto ( )
   else if (escolha == 1){max = 5;}
  }
  cout << "valor da estadia: ";
- cout << "os valores da estadia do hotel sao:" << endl;
- cout << "R$ 100 para quartos de 1/2 hospedes no quarto padrao"<< endl;
-  cout << "R$ 200 para quartos de 1/2 hospedes na suite presidencial"<< endl;
-   cout << "R$ 120 para quartos de 3 hospedes "<< endl;
-    cout << "R$ 135 para quartos de 4 hospedes"<< endl;
  cin >> value;
- if (max == 1 && value != 100){cout << "erro" << endl; return;}
-  if (max == 2 && value != 100){cout << "erro" << endl; return;}
-   if (max == 3 && value != 120){cout << "erro" << endl; return;}
-    if (max == 4 && value != 135){cout << "erro" << endl; return;}
-     if (max == 5 && value != 200){cout << "erro" << endl; return;}
  hotel <int> objeto(numeron,max,value);
  }
  else{cout << "quarto nao existe" << endl;}
@@ -250,11 +240,11 @@ if (entrada_day == saida_day && saida_month == entrada_month)
    if (entrada_month != saida_month)
    {
    entrada_day = days - entrada_day;
-   dias = entrada_day + saida_day;
+   dias = entrada_day + saida_day + 1;
    }
    else
    {
-    dias = saida_day - entrada_day;
+    dias = saida_day - entrada_day + 1;
    }
   }
   else if (entrada_month == 4 || entrada_month == 6 || entrada_month == 8
@@ -264,11 +254,11 @@ if (entrada_day == saida_day && saida_month == entrada_month)
    if (entrada_month != saida_month)
    {
    entrada_day = days - entrada_day;
-   dias = entrada_day + saida_day;
+   dias = entrada_day + saida_day + 1;
    }
    else
    {
-    dias = saida_day - entrada_day;
+    dias = saida_day - entrada_day + 1;
    }
   }
   else if (entrada_month == 2)
@@ -277,11 +267,11 @@ if (entrada_day == saida_day && saida_month == entrada_month)
    if (entrada_month != saida_month)
    {
    entrada_day = days - entrada_day;
-   dias = entrada_day + saida_day;
+   dias = entrada_day + saida_day + 1;
    }
    else
    {
-    dias = saida_day - entrada_day;
+    dias = saida_day - entrada_day + 1;
    }
  }
  int cliente = 0;
@@ -557,7 +547,7 @@ int main ( int argc, char** argv )
  cout << " 3 - Cadastrar quarto" << endl;
  cout << " 4 - Iniciar estadia" << endl;
  cout << " 5 - Encerrar estadia" << endl;
- cout << " 6 - Pesquisar partiipantes" << endl;
+ cout << " 6 - Pesquisar participantes" << endl;
  cout << " 7 - Verificar estadias do cliente" << endl;
  cout << " 8 - Verificar lucro por mes" << endl;
  // ler do teclado

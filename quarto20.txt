@@ -1,5 +1,14 @@
 numero do quarto: 20
-quarto para: 2 
+quarto para: 2
 5
 valor da diaria: 
-200
+500
+entrada: 2/5 | saida dia : 6/5
+2500
+Cliente: 
+4
+Funcionario: 
+1
+ocupado
+mes de marco de lucros: 
+5
